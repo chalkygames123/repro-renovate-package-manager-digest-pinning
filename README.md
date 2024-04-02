@@ -21,4 +21,4 @@ With the config like below, Renovate should pin the `packageManager` version by 
 }
 ```
 
-Demonstration PR: #1
+Demonstration PR: #2
