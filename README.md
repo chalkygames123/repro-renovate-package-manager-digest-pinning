@@ -21,4 +21,4 @@ With the config like below, Renovate should pin the `packageManager` version by 
 }
 ```
 
-Demonstration PR: #2
+Demonstration PR: https://github.com/chalkygames123/repro-renovate-package-manager-digest-pinning/pull/2
